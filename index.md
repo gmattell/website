@@ -21,6 +21,9 @@ Syntax highlighted code block
 1. Numbered 10 11 12
 2. List
 
+- [x] task list
+- [ ] to do still
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
